@@ -22,8 +22,7 @@ A Medical Imaging Diagnosis Agent built on Agno powered by Gemini 2.0 Flash that
    ```bash
    git clone https://github.com//ChiragGaur13/ai_medical_imaging_agent
 
-# Install dependencies
-    ```bash
+   # Install dependencies
     pip install -r requirements.txt
 
 2. **Configure API Keys**
